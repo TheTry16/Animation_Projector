@@ -30,7 +30,7 @@ output xRSET,
 output XCS,
 output XDCS,
 output SI,
-output SCLK
+output SCLK,
 
 //vga
 output hsync,
